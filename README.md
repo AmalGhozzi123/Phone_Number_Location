@@ -30,7 +30,7 @@ pip install phonenumbers
 4. **Enter a Phone Number**📝
 When prompted, enter a phone number in international format (e.g., +216 25987480, +966 50 547 3147, or +447975777666).
 
-📈 Usage
+## 📈 Usage
 Start the script and follow the prompt to enter a phone number. The script will output:
 
 - The parsed PhoneNumber object.📊
@@ -38,4 +38,5 @@ Start the script and follow the prompt to enter a phone number. The script will 
 - The name of the carrier.📶
 - The time zones associated with the phone number.⏰
 
-Feel free to use this script as a starting point for your projects involving phone number processing and analysis.🚀
+## 🧩 Additional Information
+Feel free to modify and extend this project to suit your needs. If you encounter any issues or need further assistance, you can contact me at amalghozzi@outlook.com.
